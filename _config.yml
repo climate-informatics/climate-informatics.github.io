@@ -43,7 +43,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  avatar : "/assets/images/CI_logo.png"
+  avatar : "/assets/images/climateinformatics.png"
 #  bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Twitter"
