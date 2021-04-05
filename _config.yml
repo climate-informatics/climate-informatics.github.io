@@ -51,7 +51,7 @@ author:
       url: "https://twitter.com/Climformatics"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/climate-informatics?tab=repositories"
 
 footer:
   links:
@@ -60,7 +60,7 @@ footer:
       url: "https://twitter.com/Climformatics"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/climate-informatics?tab=repositories"
 
 defaults:
   # _posts
