@@ -20,7 +20,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: 
+timezone: America/New_York
 
 include:
   - _pages
