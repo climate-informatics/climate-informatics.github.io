@@ -3,7 +3,7 @@ title: "Join Climate Informatics Message Board"
 categories:
   - Blog
 tags:
-  - Announcements
+  - Announcement
   - Community
 ---
 
