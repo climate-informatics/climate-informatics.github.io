@@ -10,23 +10,29 @@ header:
   caption: "Photo credit: [**NASA**](https://unsplash.com)"
 excerpt: "An open community at the intersection of climate science and data science."
 intro: 
-  - excerpt: "Climate Informatics is an open community interested in any research combining climate science with approaches from statistics, machine learning and data mining. Through the annual conference series and through this community website we hope to stimulate discussion of new ideas, foster new collaborations, grow the community, and thus accelerate discovery across disciplinary boundaries."
+  - excerpt: "Climate Informatics is an open community interested in any research combining climate 
+    science with approaches from statistics, machine learning and data mining. Through the annual 
+    conference series and through this community website we hope to stimulate discussion of new ideas, 
+    foster new collaborations, grow the community, and thus accelerate discovery across disciplinary 
+    boundaries."
 feature_row:
   - image_path: assets/images/G17-Atmospheric-River.jpg
-    image_caption: "Credit: NOAA"
+    image_caption: "Credit: _NOAA_"
     alt: "A satellite image of an atmospheric river event observed by GOES-17 Advanced Baseline Imager."
     title: "Climate Centered"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "_**Climate Informatics**_ is centered around the discovery of climate sciences with state-of-art 
+    methods in statistics, machine learning, and data mining."
   - image_path: /assets/images/CI-2019-Paris.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "A satellite image of an atmospheric river event observed by GOES-17 Advanced Baseline Imager."
+    alt: "The group photo of participants attending Climate Informatics 2019 at Paris, France."
     title: "Community Driven"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "The community is driven by active members by organizing annual conference series, hackathons,
+    and other events to promote the advancement in the field."
   - image_path: /assets/images/JPSS_image.jpg
-    image_caption: "Credit: NOAA"
+    image_caption: "Credit: _NOAA_"
     alt: "An illustrated image of JPSS flying over sea ice in the Arctic."
     title: "Collaborative Innovation"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "We promote collaborations and support early-career scientists by bringing experts across 
+    disciplines together through various events and online forums."
 ---
 
 {% include feature_row id="intro" type="center" %}
