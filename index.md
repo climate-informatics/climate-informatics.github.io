@@ -6,8 +6,10 @@ date: 2021-03-19T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image-1.jpg
-  caption: "Photo credit: [**NASA**](https://unsplash.com)"
+  overlay_image: /assets/images/G16-ThreeHUR-StarryNit.jpg
+  caption: "Original photo: *NOAA*"
+  alt: "An illustrated picture of three hurricanes (Irma, Jose, and Katia) based on image captured 
+  by GOES-16 Advanced Baseline Imager on Septermber 7, 2017."
 excerpt: "An open community at the intersection of climate science and data science."
 intro: 
   - excerpt: "Climate Informatics is an open community interested in any research combining climate 
