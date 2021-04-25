@@ -44,7 +44,6 @@ plugins:
 
 author:
   avatar : "/assets/images/climateinformatics.png"
-#  bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -62,6 +61,12 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/climate-informatics?tab=repositories"
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-FHNQK8KKC3"
+    anonymize_ip: false #default  
+
 defaults:
   # _posts
   - scope:
@@ -71,7 +76,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-#      comments: true
       share: true
 #      related: true
   # _pages
