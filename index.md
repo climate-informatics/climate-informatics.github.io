@@ -13,16 +13,19 @@ intro:
   - excerpt: "Climate Informatics is an open community interested in any research combining climate science with approaches from statistics, machine learning and data mining. Through the annual conference series and through this community website we hope to stimulate discussion of new ideas, foster new collaborations, grow the community, and thus accelerate discovery across disciplinary boundaries."
 feature_row:
   - image_path: assets/images/G17-Atmospheric-River.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
+    image_caption: "Credit: NOAA"
+    alt: "A satellite image of an atmospheric river event observed by GOES-17 Advanced Baseline Imager."
+    title: "Climate Centered"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: /assets/images/CI-2019-Paris.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
+    alt: "A satellite image of an atmospheric river event observed by GOES-17 Advanced Baseline Imager."
+    title: "Community Driven"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: /assets/images/JPSS_image.jpg
-    title: "Placeholder 3"
+    image_caption: "Credit: NOAA"
+    alt: "An illustrated image of JPSS flying over sea ice in the Arctic."
+    title: "Collaborative Innovation"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
