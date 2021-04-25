@@ -1,6 +1,6 @@
 ---
 title: "Climate Informatics Conferences"
-permalink: /Conferences/
+permalink: /conferences/
 author_profile: true
 ---
 
