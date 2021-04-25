@@ -2,8 +2,10 @@ main:
   - title: "About"
     url: /about/
   - title: "Conferences"
-    url: /Conferences/
-  - title: "Posts"
-    url: /posts/
+    url: /conferences/
+  - title: "Announcements"
+    url: /announcements/
+  - title: "Resources"
+    url: /resources/
   - title: "Tags"
     url: /tags/
