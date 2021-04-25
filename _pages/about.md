@@ -5,8 +5,6 @@ title: "About Climate Informatics"
 
 We are a group of people enthusiastic about the new field of climate informatics. By creating this web page we hope to bring people from different disciplines together, to form new collaborations and discuss new ideas. In short, to speed up the rate of discovery in climate science.
 
-This test website was created by Yuhan (Douglas) Rao.
-
 ### What is Climate Informatics?
 
 Climate informatics broadly refers to any research combining climate science with approaches from statistics, 
@@ -26,4 +24,4 @@ We invite you to join us [here](https://groups.google.com/forum/#!forum/climate-
 
 For questions regarding the climate informatics workshop series, please send email to climate.informatics.workshop@gmail.com.
 
-For other inquiries, please send email to the [future email address needed here].
+Current version of the website was created by [Yuhan (Douglas) Rao](mailto:yrao5@ncsu.edu).
