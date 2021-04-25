@@ -10,6 +10,9 @@ header:
   caption: "Original photo: *NOAA*"
   alt: "An illustrated picture of three hurricanes (Irma, Jose, and Katia) based on image captured 
   by GOES-16 Advanced Baseline Imager on Septermber 7, 2017."
+  actions:
+    - label: "Join the Community"
+      url: "https://groups.google.com/g/climate-informatics-news"
 excerpt: "An open community at the intersection of climate science and data science."
 intro: 
   - excerpt: "Climate Informatics is an open community interested in any research combining climate 
@@ -29,9 +32,6 @@ feature_row:
     title: "Community Driven"
     excerpt: "The community is driven by active members by organizing annual conference series, hackathons,
     and other events to promote the advancement in the field."
-    url: "https://groups.google.com/g/climate-informatics-news"
-    btn_label: "Join the Community"
-    btn_class: "btn--primary"
   - image_path: /assets/images/JPSS_image.jpg
     image_caption: "Credit: _NOAA_"
     alt: "An illustrated image of JPSS flying over sea ice in the Arctic."
