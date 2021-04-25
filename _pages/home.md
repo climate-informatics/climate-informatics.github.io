@@ -1,7 +1,7 @@
 ---
 title: "Climate Informatics"
 layout: splash
-permalink: /home/
+permalink: /
 date: 2021-03-19T11:48:41-04:00
 header:
   overlay_color: "#000"
