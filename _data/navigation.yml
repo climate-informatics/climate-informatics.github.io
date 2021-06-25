@@ -3,6 +3,8 @@ main:
     url: /about/
   - title: "Conferences"
     url: /conferences/
+  - title: "Hackathons"
+    url: /hackathons/
   - title: "Announcements"
     url: /announcements/
   - title: "Resources"
