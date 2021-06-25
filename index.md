@@ -15,8 +15,8 @@ header:
       url: "https://groups.google.com/g/climate-informatics-news"
 excerpt: "An open community at the intersection of climate science and data science."
 intro: 
-  - excerpt: "Climate Informatics is an open community interested in any research combining climate 
-    science with approaches from statistics, machine learning and data mining. Through the annual 
+  - excerpt: "Climate Informatics is an open community interested in research combining climate science 
+    with approaches from statistics, machine learning and data mining. Through the annual 
     conference series and through this community website we hope to stimulate discussion of new ideas, 
     foster new collaborations, grow the community, and thus accelerate discovery across disciplinary 
     boundaries."
