@@ -24,7 +24,7 @@ very useful resources for anyone who want to learn more about the field of clima
 
 ### 2020 Climate Informatics Hackathon (Virtual)
 - **Topic**: Generating synthetic nighttime imagery from infrared observations for GOES-16 Advanced Baseline Imager.
-- **GitHub**: https://github.com/paulaharder/hackathon-ci-2020
+- **GitHub**: [https://github.com/paulaharder/hackathon-ci-2020](https://github.com/paulaharder/hackathon-ci-2020)
 - **Reference**: Harder, P., Jones, W., Lguensat, R., Bouabid, S., Fulton, J., Quesada-Chacón, D., Marcolongo, A., 
   Stefanović, S., Rao, Y., Manshausen, P. and Watson-Parris, D., 2020. NightVision: Generating Nighttime Satellite
   Imagery from Infra-Red Observations. arXiv preprint [arXiv:2011.07017](https://arxiv.org/abs/2011.07017).
@@ -36,17 +36,17 @@ very useful resources for anyone who want to learn more about the field of clima
 
 ### 2018 Climate Informatics Hackathon (Boulder, Colorado, U.S.A.)
 - **Topic**: Predicting storm intensity in 24-hour lead time.
-- **GitHub**: https://github.com/ramp-kits/storm_forecast
+- **GitHub**: [https://github.com/ramp-kits/storm_forecast](https://github.com/ramp-kits/storm_forecast)
 - **Reference**: [Introductory Jupyter notebook](https://github.com/ramp-kits/storm_forecast/blob/master/storm_forecast_starting_kit.ipynb)
 
 ### 2017 Climate Informatics Hackathon (Boulder, Colorado, U.S.A.)
 - **Topic**: Predicting California winter extreme rainfall.
-- **GitHub**: https://github.com/ramp-kits/california_rainfall
+- **GitHub**: [https://github.com/ramp-kits/california_rainfall](https://github.com/ramp-kits/california_rainfall)
 - **Reference**: [Introductory Jupyter notebook](https://github.com/ramp-kits/california_rainfall/blob/master/california_rainfall_starting_kit.ipynb)
 
 ### 2016 Climate Informatics Hackathon (Boulder, Colorado, U.S.A.)
 - **Topic**: Predicting Arctic sea ice extent in 4-month lead time.
-- **GitHub**: https://github.com/ramp-kits/sea_ice
+- **GitHub**: [https://github.com/ramp-kits/sea_ice](https://github.com/ramp-kits/sea_ice)
 - **Reference**: 
   - [Introductory Jupyter notebook](https://github.com/ramp-kits/sea_ice/blob/master/sea_ice_starting_kit.ipynb)
   - Virginie Guemas, Edward Blanchard-Wrigglesworth, Matthieu Chevallier, Jonathan J Day, Michel
@@ -56,5 +56,5 @@ Journal of the Royal Meteorological Society, 2014.
 
 ### 2015 Climate Informatics Hackathon (Boulder, Colorado, U.S.A.)
 - **Topic**: Predicting Nino 3.4 index using climate model (CCSM4) simulations.
-- **GitHub**: https://github.com/ramp-kits/el_nino
+- **GitHub**: [https://github.com/ramp-kits/el_nino](https://github.com/ramp-kits/el_nino)
 - **Reference**: [Introductory Jupyter notebook](https://github.com/ramp-kits/el_nino/blob/master/el_nino_starting_kit.ipynb)
