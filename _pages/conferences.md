@@ -65,5 +65,5 @@ The [2nd International Workshop on Climate Informatics](https://www2.cisl.ucar.e
 at National Center for Atmospheric Research, Boulder, Colorado on 20-21 September 2012.
 
 ### Climate Informatics 2011 (CI 2011)
-The 1st International Workshop on Climate Informatics was hosted at the New York Academy of Sciences, New York, 
-New York on 26 August 2011.
+The [1st International Workshop on Climate Informatics](https://www.nyas.org/events/2011/the-first-international-workshop-on-climate-informatics/) 
+was hosted at the New York Academy of Sciences, New York, New York on 26 August 2011.
