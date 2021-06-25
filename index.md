@@ -30,8 +30,8 @@ feature_row:
   - image_path: /assets/images/CI-2019-Paris.jpg
     alt: "The group photo of participants attending Climate Informatics 2019 at Paris, France."
     title: "Community Driven"
-    excerpt: "The community is driven by active members by organizing annual conference series, hackathons,
-    and other events to promote the advancement in the field."
+    excerpt: "The community is driven by active members organizing annual conference series, hackathons,
+    and other events to promote advancement in the field."
   - image_path: /assets/images/JPSS_image.jpg
     image_caption: "Credit: _NOAA_"
     alt: "An illustrated image of JPSS flying over sea ice in the Arctic."
