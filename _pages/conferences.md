@@ -10,7 +10,7 @@ and Gavin Schmidt.
 
 ## Future Events
 
-The 11th International Conference on Climate Informatics will be hosted by [North Carolinat Institute
+The 11th International Conference on Climate Informatics will be hosted by [North Carolina Institute
 for Climate Studies](https://ncics.org/) in Spring 2022 at Asheville, North Carolina, United States.
 
 In 2021, there will be a virtual Climate Informatics hackathon and tutorials on 7-10 September 2021. 
@@ -50,11 +50,11 @@ was hosted at National Center for Atmospheric Research, Boulder, Colorado on 21-
 ### Climate Informatics 2015 (CI 2015)
 The [5th International Workshop on Climate Informatics](https://www2.cisl.ucar.edu/events/workshops/climate-informatics/2015/home)
 was hosted at National Center for Atmospheric Research, Boulder, Colorado on 24-26 September 2015 including
-1-day hackathon event.
+1-day hackathon event. The Proceedings of CI 2015 is published [here](https://www2.cisl.ucar.edu/events/workshops/climate-informatics/2015/workshop-proceedings).
 
 ### Climate Informatics 2014 (CI 2014)
 The [4th International Workshop on Climate Informatics](https://www2.cisl.ucar.edu/event/ci2014) was hosted 
-at National Center for Atmospheric Research, Boulder, Colorado on 25-26 September 2014.
+at National Center for Atmospheric Research, Boulder, Colorado on 25-26 September 2014. The Proceedings of CI 2014 is published [here](https://link.springer.com/book/10.1007%2F978-3-319-17220-0).
 
 ### Climate Informatics 2013 (CI 2013)
 The [3rd International Workshop on Climate Informatics](https://www2.cisl.ucar.edu/event/ci2013) was hosted 
