@@ -10,13 +10,19 @@ and Gavin Schmidt.
 
 ## Future Events
 
-The [12th International Conference on Climate Informatics](https://cambridge-iccs.github.io/climate-informatics-2023/) will be hosted by the [Institute of Computing for Climate Science at the University of Cambridge](http://cambridge-iccs.github.io) taking place 19-21st April 2023, Cambridge, UK. 
+The [13th International Conference on Climate Informatics](https://alan-turing-institute.github.io/climate-informatics-2024/) will be hosted by the [The Alan Turing Institute](http://www.turing.ac.uk) taking place 22nd-24th April 2024, London, UK. 
 
-See the [conference webpage for details](https://cambridge-iccs.github.io/climate-informatics-2023/).
+See the [conference webpage for details](https://alan-turing-institute.github.io/climate-informatics-2024/).
 
 ## Past Events 
 
 Each site of past workshops contains extensive archives of accepted abstracts, recorded talks, etc.
+
+### Climate Informatics 2023 (CI 2023)  
+
+The [12th International Conference on Climate Informatics](https://cambridge-iccs.github.io/climate-informatics-2023/) will be hosted by the [Institute of Computing for Climate Science at the University of Cambridge](http://cambridge-iccs.github.io) taking place 19-21st April 2023, Cambridge, UK. 
+
+See the [conference webpage for details](https://cambridge-iccs.github.io/climate-informatics-2023/).
 
 ### Climate Informatics 2022 (CI 2022)  
 
