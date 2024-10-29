@@ -10,7 +10,7 @@ and Gavin Schmidt.
 
 ## Future Events
 
-The 14th International Conference on Climate Informatics will be hosted by IBM Research Brazil on 285h-30th April 2025, Rio de Janeiro, Brazil. 
+The 14th International Conference on Climate Informatics will be hosted by [IBM Research Brazil](https://research.ibm.com/labs/brazil), between 28 and 30 April 2025, in Rio de Janeiro (RJ), Brazil. 
 
 ## Past Events 
 
