@@ -10,28 +10,28 @@ and Gavin Schmidt.
 
 ## Future Events
 
-The [13th International Conference on Climate Informatics](https://alan-turing-institute.github.io/climate-informatics-2024/) will be hosted by the [The Alan Turing Institute](http://www.turing.ac.uk) taking place 22nd-24th April 2024, London, UK. 
-
-See the [conference webpage for details](https://alan-turing-institute.github.io/climate-informatics-2024/).
+The [14th International Conference on Climate Informatics](https://alan-turing-institute.github.io/climate-informatics-2024/) will be hosted by IBM Research Brazil taking place 285h-30th April 2025, Rio de Janeiro, Brazil. 
 
 ## Past Events 
 
 Each site of past workshops contains extensive archives of accepted abstracts, recorded talks, etc.
 
+### Climate Informatics 2024 (CI 2024) 
+
+The [13th International Conference on Climate Informatics](https://alan-turing-institute.github.io/climate-informatics-2024/) was hosted by the [The Alan Turing Institute](http://www.turing.ac.uk) taking place 22nd-24th April 2024, London, UK. 
+
+See the [conference webpage for details](https://alan-turing-institute.github.io/climate-informatics-2024/).
+
 ### Climate Informatics 2023 (CI 2023)  
 
-The [12th International Conference on Climate Informatics](https://cambridge-iccs.github.io/climate-informatics-2023/) will be hosted by the [Institute of Computing for Climate Science at the University of Cambridge](http://cambridge-iccs.github.io) taking place 19-21st April 2023, Cambridge, UK. 
+The [12th International Conference on Climate Informatics](https://cambridge-iccs.github.io/climate-informatics-2023/) was hosted by the [Institute of Computing for Climate Science at the University of Cambridge](http://cambridge-iccs.github.io) taking place 19-21st April 2023, Cambridge, UK. 
 
 See the [conference webpage for details](https://cambridge-iccs.github.io/climate-informatics-2023/).
 
 ### Climate Informatics 2022 (CI 2022)  
 
-The 11th International Conference on Climate Informatics will be hosted by [North Carolina Institute
-for Climate Studies](https://ncics.org/) in Spring 2022 at Asheville, North Carolina, United States.
-
-In 2021, there was a virtual Climate Informatics hackathon and tutorials on 7-10 September 2021. 
-To receive the update about the hackathon and next conference, you can sign up via this short 
-[Google form](https://forms.gle/pz8WYEUohqfG3TEM9). 
+The 11th International Conference on Climate Informatics was hosted by [North Carolina Institute
+for Climate Studies](https://ncics.org/) in Spring 2022 at Asheville, North Carolina, United States. In 2021, there was a virtual Climate Informatics hackathon and tutorials on 7-10 September 2021.  
 
 ### Climate Informatics 2020 (CI 2020)  
 The [10th International Conference on Climate Informatics](https://ci2020.web.ox.ac.uk/home) was hosted
