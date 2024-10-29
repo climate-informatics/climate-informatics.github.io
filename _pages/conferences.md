@@ -10,7 +10,7 @@ and Gavin Schmidt.
 
 ## Future Events
 
-The [14th International Conference on Climate Informatics](https://alan-turing-institute.github.io/climate-informatics-2024/) will be hosted by IBM Research Brazil taking place 285h-30th April 2025, Rio de Janeiro, Brazil. 
+The 14th International Conference on Climate Informatics will be hosted by IBM Research Brazil on 285h-30th April 2025, Rio de Janeiro, Brazil. 
 
 ## Past Events 
 
