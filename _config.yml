@@ -60,6 +60,12 @@ author:
 
 footer:
   links:
+    - label: "BlueSky"
+      icon: "fa-brands fa-bluesky"
+      url: "https://bsky.app/profile/climformatics.bsky.social"
+    - label: "Mastodon (Fediverse)"
+      icon: "fa-brands fa-mastodon"
+      url: "https://mastodon.social/@climformatics.bsky.social@bsky.brid.gy"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Climformatics"
