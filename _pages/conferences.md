@@ -10,13 +10,21 @@ and Gavin Schmidt.
 
 ## Future Events
 
-The 14th International Conference on Climate Informatics will be hosted by [IBM Research Brazil](https://research.ibm.com/labs/brazil), between 28 and 30 April 2025, in Rio de Janeiro (RJ), Brazil. 
+### Climate Informatics 2026 (CI 2026)
 
-See the [conference webpage for details](https://2025.climateinformatics.com.br).
+The 15th International Conference on Climate Informatics will be hosted at University of Lausanne (UNIL) and École polytechnique fédérale de Lausanne (EPFL), between 27 and 30 April 2026, in Lausanne, Switzerland. 
+
+The abstract and paper submission deadline is 16 January 2026. More information will be updated with the submission details.
 
 ## Past Events 
 
 Each site of past workshops contains extensive archives of accepted abstracts, recorded talks, etc.
+
+### Climate Informatics 2025 (CI 2025)
+
+The 14th International Conference on Climate Informatics was hosted by [IBM Research Brazil](https://research.ibm.com/labs/brazil), between 28 and 30 April 2025, in Rio de Janeiro (RJ), Brazil. 
+
+See the [conference webpage for details](https://2025.climateinformatics.com.br).
 
 ### Climate Informatics 2024 (CI 2024) 
 
