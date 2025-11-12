@@ -22,7 +22,7 @@ Each site of past workshops contains extensive archives of accepted abstracts, r
 
 ### Climate Informatics 2025 (CI 2025)
 
-The 14th International Conference on Climate Informatics was hosted by [IBM Research Brazil](https://research.ibm.com/labs/brazil), between 28 and 30 April 2025, in Rio de Janeiro (RJ), Brazil. 
+The 14th International Conference on Climate Informatics was hosted by [IBM Research Brazil](https://research.ibm.com/labs/brazil) and the [School of Applied Mathematics at Fundação Getúlio Vargas (FGV EMAp)](https://emap.fgv.br/en), between 28 and 30 April 2025, in Rio de Janeiro (RJ), Brazil. 
 
 See the [conference webpage for details](https://2025.climateinformatics.com.br).
 
