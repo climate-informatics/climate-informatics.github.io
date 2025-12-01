@@ -12,9 +12,9 @@ and Gavin Schmidt.
 
 ### Climate Informatics 2026 (CI 2026)
 
-The 15th International Conference on Climate Informatics will be hosted at University of Lausanne (UNIL) and École polytechnique fédérale de Lausanne (EPFL), between 27 and 30 April 2026, in Lausanne, Switzerland. 
+The [15th International Conference on Climate Informatics](https://wp.unil.ch/ci26/) will take place from April 27 to April 30 in Lausanne, Switzerland. CI 2026 is hosted by the [Expertise Center for Climate Extremes](https://www.unil.ch/ecce/en/home.html) and the [Geocomputing Center](https://unil-sgc.github.io/) of the University of Lausanne (UNIL) in partnership with [EPFL](https://www.epfl.ch/en/), [SDSC](https://datascience.ch/), and [C2SM](https://c2sm.ethz.ch/). 
 
-The abstract and paper submission deadline is 16 January 2026. More information will be updated with the submission details.
+The paper and extended abstract submission deadline is January 16, 2026 and further details can be found on the [conference webpage](https://wp.unil.ch/ci26/).
 
 ## Past Events 
 
