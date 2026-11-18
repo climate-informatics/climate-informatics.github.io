@@ -10,15 +10,18 @@ and Gavin Schmidt.
 
 ## Future Events
 
-### Climate Informatics 2026 (CI 2026)
+### Climate Informatics 2027 (CI 2027)
 
-The [15th International Conference on Climate Informatics](https://wp.unil.ch/ci26/) will take place from April 27 to April 30 in Lausanne, Switzerland. CI 2026 is hosted by the [Expertise Center for Climate Extremes](https://www.unil.ch/ecce/en/home.html) and the [Geocomputing Center](https://unil-sgc.github.io/) of the University of Lausanne (UNIL) in partnership with [EPFL](https://www.epfl.ch/en/), [SDSC](https://datascience.ch/), and [C2SM](https://c2sm.ethz.ch/). 
-
-The paper and extended abstract submission deadline is January 16, 2026 and further details can be found on the [conference webpage](https://wp.unil.ch/ci26/).
+The [16th International Conference on Climate Informatics] will take place from May 10 to May 14 in Lecce, Italy. CI 2027 will be hosted by the [Euro-Mediterranean Center on Climate Change (CMCC)](https://www.cmcc.it/) and [University of Salento](https://www.unisalento.it/). The information on paper submission is forthcoming. 
 
 ## Past Events 
 
 Each site of past workshops contains extensive archives of accepted abstracts, recorded talks, etc.
+
+### Climate Informatics 2026 (CI 2026)
+
+The [15th International Conference on Climate Informatics](https://wp.unil.ch/ci26/) took place from April 27 to April 30 in Lausanne, Switzerland. CI 2026 was hosted by the [Expertise Center for Climate Extremes](https://www.unil.ch/ecce/en/home.html) and the [Geocomputing Center](https://unil-sgc.github.io/) of the University of Lausanne (UNIL) in partnership with [EPFL](https://www.epfl.ch/en/), [SDSC](https://datascience.ch/), and [C2SM](https://c2sm.ethz.ch/). 
+
 
 ### Climate Informatics 2025 (CI 2025)
 
