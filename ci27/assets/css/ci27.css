@@ -63,8 +63,15 @@ html:has(.ci27-page), html:has(body.ci27-page) { scroll-behavior: smooth; }
   background: rgba(255, 255, 255, 0.96);
   border-bottom: 1px solid var(--ci27-line);
   box-shadow: 0 6px 12px -10px rgba(0, 0, 0, 0.25);
+  display: flex;
+  align-items: center;
+  gap: 0.6em;
 }
+.ci27-page #main .ci27-nav__logo { flex: 0 0 auto; display: block; padding: 0.2em 0; }
+.ci27-nav__logo img { display: block; height: 34px; width: auto; }
 .ci27-nav ul {
+  flex: 1 1 auto;
+  min-width: 0;
   display: flex;
   gap: 0.25em;
   margin: 0;

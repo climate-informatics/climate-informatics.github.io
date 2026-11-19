@@ -30,8 +30,8 @@ header:
   overlay_color: "#0f4c5c"
   # For a photo instead of the coloured banner, put it in ci27/assets/images/
   # and uncomment these two lines:
-  # overlay_image: /ci27/assets/images/header.jpg
-  # overlay_filter: "0.45"
+  overlay_image: /ci27/assets/images/campus_ecotekne.jpg
+  overlay_filter: "0.45"
   actions:
     - label: "Call for papers"
       url: "/ci27/#call-for-papers"
@@ -147,6 +147,7 @@ ci27:
 
 <!-- In-page menu: built from the "sections" list in the front matter -->
 <div class="ci27-nav" role="navigation" aria-label="CI 2027 sections">
+  <a class="ci27-nav__logo" href="#" title="Back to top"><img src="{{ '/ci27/assets/images/climateinformatics.png' | relative_url }}" alt="Climate Informatics"></a>
   <ul>
 {% for s in page.sections %}{% if s.show and s.menu != "" %}    <li><a href="#{{ s.id }}">{{ s.menu }}</a></li>
 {% endif %}{% endfor %}  </ul>
