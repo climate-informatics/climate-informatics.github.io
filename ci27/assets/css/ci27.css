@@ -51,6 +51,7 @@ html:has(.ci27-page), html:has(body.ci27-page) { scroll-behavior: smooth; }
   background: var(--ci27-accent);
 }
 .ci27-page #main h3 { margin-top: 1.4em; font-size: 1.1em; color: var(--ci27-primary); }
+.ci27-page #main h4 { margin-top: 1.2em; font-size: 1em; color: var(--ci27-ink); }
 .ci27-page #main em { color: var(--ci27-muted); }
 
 /* --------------------------------------------------------- in-page menu */
@@ -140,6 +141,7 @@ html:has(.ci27-page), html:has(body.ci27-page) { scroll-behavior: smooth; }
   background: #fff;
 }
 .ci27-hosts__logo img { max-height: 80px; width: auto; height: auto; }
+.ci27-hosts__logo img.ci27-hosts__img--square { max-height: 100px; margin: -0.5em 0; }   /* square logos look smaller at the same height */
 
 /* ------------------------------------------------------------ timeline */
 .ci27-timeline { position: relative; margin: 1em 0; }
@@ -255,13 +257,25 @@ html:has(.ci27-page), html:has(body.ci27-page) { scroll-behavior: smooth; }
 }
 
 /* --------------------------------------------------------- committee */
-.ci27-committee {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 1.2em;
+.ci27-page #main ul.ci27-committee-list { padding: 0; list-style: none; }
+.ci27-page #main ul.ci27-committee-list li {
+  margin: 0;
+  padding: 0.55em 0;
+  border-bottom: 1px solid var(--ci27-line);
 }
-.ci27-page #main .ci27-committee__group h3 { margin: 0 0 0.3em; font-size: 1em; }
-.ci27-committee__group ul { margin: 0; padding: 0; list-style: none; font-size: 0.9em; }
+.ci27-page #main ul.ci27-committee-list li:last-child { border-bottom: 0; }
+.ci27-page #main ul.ci27-committee-list strong { color: var(--ci27-primary); }
+
+/* ------------------------------------------------- CMT acknowledgment */
+.ci27-page #main .ci27-cmt {
+  margin-top: 2em;
+  padding: 1em 1.2em;
+  border-left: 4px solid var(--ci27-line);
+  border-radius: var(--ci27-radius);
+  background: var(--ci27-bg-soft);
+  font-size: 0.8em;
+  color: var(--ci27-muted);
+}
 
 /* ------------------------------------------------------------ mobile */
 @media (max-width: 760px) {
