@@ -1,0 +1,271 @@
+/* =============================================================================
+   CI 2027 landing page styles.
+   Loaded only by ci27/index.md, and every rule is scoped to .ci27-page
+   (set with "classes: ci27-page" in the page's front matter), so nothing here
+   affects the rest of the site.
+   ========================================================================== */
+
+.ci27-page {
+  --ci27-primary: #0f4c5c;   /* deep sea teal */
+  --ci27-accent: #c58b4a;    /* Lecce stone */
+  --ci27-accent-soft: #f6efe6;
+  --ci27-ink: #1f2a30;
+  --ci27-muted: #6b7a83;
+  --ci27-line: #e3e8eb;
+  --ci27-bg-soft: #f5f8f9;
+  --ci27-radius: 10px;
+  scroll-behavior: smooth;
+}
+html:has(.ci27-page), html:has(body.ci27-page) { scroll-behavior: smooth; }
+
+/* Banner: gradient behind the title when no photo is set */
+.ci27-page .page__hero--overlay {
+  background-image: linear-gradient(135deg, #0b3442 0%, #0f4c5c 45%, #1f6f78 75%, #c58b4a 140%);
+}
+.ci27-page .page__hero--overlay .page__title { font-size: 2.6em; }
+
+.ci27-page #main { color: var(--ci27-ink); }
+.ci27-page #main a { color: var(--ci27-primary); }
+.ci27-page #main img { max-width: 100%; }
+.ci27-page #main p,
+.ci27-page #main li { overflow-wrap: anywhere; }   /* long e-mail addresses on phones */
+
+/* ----------------------------------------------------------- headings */
+.ci27-page #main h2 {
+  scroll-margin-top: 4em;   /* keeps headings visible below the sticky menu */
+  margin: 2.2em 0 0.8em;
+  padding: 1.6em 0 0;
+  border-top: 1px solid var(--ci27-line);
+  border-bottom: 0;
+  font-size: 1.6em;
+  color: var(--ci27-primary);
+}
+.ci27-page #main h2:first-of-type { margin-top: 1em; padding-top: 0; border-top: 0; }
+.ci27-page #main h2::after {
+  content: "";
+  display: block;
+  width: 48px;
+  height: 3px;
+  margin-top: 0.35em;
+  border-radius: 2px;
+  background: var(--ci27-accent);
+}
+.ci27-page #main h3 { margin-top: 1.4em; font-size: 1.1em; color: var(--ci27-primary); }
+.ci27-page #main em { color: var(--ci27-muted); }
+
+/* --------------------------------------------------------- in-page menu */
+.ci27-nav {
+  position: sticky;
+  top: 0;
+  z-index: 15;
+  margin: 0 0 1.5em;
+  background: rgba(255, 255, 255, 0.96);
+  border-bottom: 1px solid var(--ci27-line);
+  box-shadow: 0 6px 12px -10px rgba(0, 0, 0, 0.25);
+}
+.ci27-nav ul {
+  display: flex;
+  gap: 0.25em;
+  margin: 0;
+  padding: 0.45em 0;
+  list-style: none;
+  overflow-x: auto;
+  white-space: nowrap;
+  scrollbar-width: none;
+}
+.ci27-nav ul::-webkit-scrollbar { display: none; }
+.ci27-nav li { margin: 0; }
+.ci27-page #main .ci27-nav a {
+  display: block;
+  padding: 0.35em 0.8em;
+  border-radius: 999px;
+  font-size: 0.8em;
+  font-weight: 600;
+  text-decoration: none;
+  color: var(--ci27-ink);
+}
+.ci27-page #main .ci27-nav a:hover,
+.ci27-page #main .ci27-nav a:focus { background: var(--ci27-accent-soft); color: var(--ci27-primary); }
+
+/* ----------------------------------------------------------- key facts */
+.ci27-facts {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1em;
+}
+.ci27-fact {
+  padding: 1em 1.2em;
+  border-left: 4px solid var(--ci27-accent);
+  border-radius: var(--ci27-radius);
+  background: var(--ci27-bg-soft);
+}
+.ci27-fact__label {
+  display: block;
+  font-size: 0.7em;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ci27-muted);
+}
+.ci27-fact__value { font-size: 1.05em; font-weight: 700; }
+
+/* ----------------------------------------------------- small helpers */
+.ci27-page #main .ci27-note { font-size: 0.8em; color: var(--ci27-muted); }
+.ci27-page #main .ci27-tba { color: var(--ci27-muted); font-style: italic; }
+.ci27-page #main .ci27-cta { margin-top: 1.5em; }
+.ci27-btn-disabled {
+  cursor: default;
+  color: var(--ci27-muted) !important;
+  background: var(--ci27-bg-soft) !important;
+  border: 1px dashed var(--ci27-line);
+}
+
+/* ------------------------------------------------------------ hosts */
+.ci27-hosts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+  margin-top: 1.2em;
+}
+.ci27-hosts__logo {
+  display: flex;
+  flex: 1 1 220px;
+  min-width: 0;
+  align-items: center;
+  justify-content: center;
+  min-height: 110px;
+  padding: 1em 1.5em;
+  border: 1px solid var(--ci27-line);
+  border-radius: var(--ci27-radius);
+  background: #fff;
+}
+.ci27-hosts__logo img { max-height: 80px; width: auto; height: auto; }
+
+/* ------------------------------------------------------------ timeline */
+.ci27-timeline { position: relative; margin: 1em 0; }
+.ci27-timeline::before {
+  content: "";
+  position: absolute;
+  top: 0.6em;
+  bottom: 0.6em;
+  left: 7px;
+  width: 2px;
+  background: var(--ci27-line);
+}
+.ci27-timeline__item {
+  position: relative;
+  display: grid;
+  grid-template-columns: 11em 1fr;
+  gap: 1em;
+  padding: 0.55em 0 0.55em 2em;
+}
+.ci27-timeline__item::before {
+  content: "";
+  position: absolute;
+  left: 2px;
+  top: 0.95em;
+  width: 12px;
+  height: 12px;
+  border: 2px solid var(--ci27-primary);
+  border-radius: 50%;
+  background: #fff;
+}
+.ci27-timeline__date { font-weight: 700; color: var(--ci27-primary); }
+.ci27-timeline__item--key::before { background: var(--ci27-accent); border-color: var(--ci27-accent); }
+.ci27-timeline__item--key .ci27-timeline__label { font-weight: 700; }
+
+/* ------------------------------------------------------------- topics */
+.ci27-page #main ul.ci27-topics {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 0.6em 1.5em;
+  padding: 0;
+  list-style: none;
+}
+.ci27-page #main ul.ci27-topics li {
+  margin: 0;
+  padding: 0.6em 0.9em;
+  border-radius: var(--ci27-radius);
+  background: var(--ci27-bg-soft);
+  font-size: 0.85em;
+}
+
+/* ----------------------------------------------------------- speakers */
+.ci27-speakers {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+  gap: 1.5em;
+  margin-top: 1em;
+}
+.ci27-speaker { text-align: center; }
+.ci27-speaker__photo {
+  width: 130px;
+  height: 130px;
+  margin: 0 auto 0.7em;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.ci27-speaker__photo--empty {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.6em;
+  color: #fff;
+  background: linear-gradient(135deg, var(--ci27-primary), #1f6f78);
+  opacity: 0.35;
+}
+.ci27-page #main .ci27-speaker__name { margin: 0; font-weight: 700; }
+.ci27-page #main .ci27-speaker__affiliation { margin: 0.2em 0 0; font-size: 0.8em; color: var(--ci27-muted); }
+
+/* ------------------------------------------------------------- agenda */
+.ci27-agenda {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+  gap: 1em;
+  margin-top: 1em;
+}
+.ci27-day {
+  overflow: hidden;
+  border: 1px solid var(--ci27-line);
+  border-radius: var(--ci27-radius);
+  font-size: 0.85em;
+}
+.ci27-day__head { padding: 0.8em 1em; color: #fff; background: var(--ci27-primary); }
+.ci27-day__name { display: block; font-weight: 700; }
+.ci27-day__date { font-size: 0.85em; opacity: 0.85; }
+.ci27-page #main .ci27-day > p,
+.ci27-page #main .ci27-day__items { margin: 0; padding: 0.8em 1em; }
+.ci27-day__items { list-style: none; }
+.ci27-day__items li { margin: 0 0 0.4em; }
+.ci27-day__time { font-weight: 700; color: var(--ci27-accent); }
+
+/* -------------------------------------------------------------- fees */
+.ci27-page #main table.ci27-fees { display: table; width: 100%; margin-top: 1em; font-size: 0.9em; }
+.ci27-page #main table.ci27-fees th { color: #fff; background: var(--ci27-primary); }
+.ci27-page #main table.ci27-fees th,
+.ci27-page #main table.ci27-fees td { padding: 0.6em 1em; text-align: left; }
+
+/* --------------------------------------------------------------- map */
+.ci27-map iframe {
+  display: block;
+  width: 100%;
+  height: 320px;
+  border: 1px solid var(--ci27-line);
+  border-radius: var(--ci27-radius);
+}
+
+/* --------------------------------------------------------- committee */
+.ci27-committee {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.2em;
+}
+.ci27-page #main .ci27-committee__group h3 { margin: 0 0 0.3em; font-size: 1em; }
+.ci27-committee__group ul { margin: 0; padding: 0; list-style: none; font-size: 0.9em; }
+
+/* ------------------------------------------------------------ mobile */
+@media (max-width: 760px) {
+  .ci27-page .page__hero--overlay .page__title { font-size: 1.9em; }
+  .ci27-timeline__item { grid-template-columns: 1fr; gap: 0; }
+  .ci27-hosts__logo { min-height: 90px; padding: 0.8em; }
+}
