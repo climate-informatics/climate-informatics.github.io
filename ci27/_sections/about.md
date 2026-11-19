@@ -11,7 +11,6 @@ together researchers across these fields to share new methods, datasets and resu
 start new collaborations.
 
 <div class="ci27-hosts">
-  <a href="{{ '/' | relative_url }}" class="ci27-hosts__logo"><img class="ci27-hosts__img--square" src="{{ '/ci27/assets/images/climateinformatics.png' | relative_url }}" alt="Climate Informatics"></a>
   <a href="https://www.cmcc.it/" class="ci27-hosts__logo"><img src="{{ '/ci27/assets/images/cmcc_logo.png' | relative_url }}" alt="CMCC – Euro-Mediterranean Center on Climate Change"></a>
   <a href="https://www.unisalento.it/" class="ci27-hosts__logo"><img src="{{ '/ci27/assets/images/unisalento_logo.png' | relative_url }}" alt="University of Salento"></a>
 </div>
