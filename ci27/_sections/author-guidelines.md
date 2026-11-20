@@ -18,8 +18,8 @@ for details.
 
 ### Submission requirements
 
-- Submissions are made through the conference CMT portal. Submission portal: link available
-  from {{ page.ci27.submission_opens }}.
+- Submissions are made through the conference CMT portal. Submission portal: {% if page.ci27.submission_url != "" %}[CI 2027 on CMT]({{ page.ci27.submission_url }}){% else %}link available
+  from {{ page.ci27.submission_opens }}{% endif %}.
 - The corresponding author must make sure that all co-authors approve the results presented
   and the final manuscript.
 

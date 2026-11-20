@@ -63,7 +63,7 @@ sections:
 ci27:
   # Link to the CMT submission portal. Leave empty until it exists:
   # the button then shows "opens 30 November 2026".
-  submission_url: ""
+  submission_url: "https://cmt3.research.microsoft.com/CI2027/Submission/Index"
   submission_opens: "30 November 2026"
   # Link to the registration platform. Leave empty until it exists.
   registration_url: "https://cmt3.research.microsoft.com/CI2027/Submission/Index"
