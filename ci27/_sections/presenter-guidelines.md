@@ -36,5 +36,5 @@
 - **QR code:** add a QR code linking to your full paper, code repository or supplementary
   videos.
 
-For technical questions about your presentation, contact the organizing committee at
-[{{ page.ci27.contact_email }}](mailto:{{ page.ci27.contact_email }}).
+For technical questions about your presentation, contact the organizing committee
+(see [Contact](#contact)).

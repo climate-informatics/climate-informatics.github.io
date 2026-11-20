@@ -1,7 +1,7 @@
 ## Contact {#contact}
 
-For questions about CI 2027, write to
-[{{ page.ci27.contact_email }}](mailto:{{ page.ci27.contact_email }}).
+For questions about CI 2027, contact the organizing committee:
+{% for c in page.ci27.contacts %}
+- **{{ c.name }}**: [{{ c.email }}](mailto:{{ c.email }}){% endfor %}
 
-To receive announcements about the call for papers and registration, join the
-[Climate Informatics mailing list]({{ page.ci27.mailing_list }}).
+To write to all of us at once, use [this link](mailto:{{ page.ci27.contacts | map: "email" | join: "," }}).

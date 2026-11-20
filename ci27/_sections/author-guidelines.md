@@ -45,5 +45,5 @@ conference and present the work.
   code repositories and, where possible, to open datasets.
 - Authors from under-represented backgrounds and regions are strongly encouraged to submit.
 
-For questions about submissions or formatting, write to
-[{{ page.ci27.contact_email }}](mailto:{{ page.ci27.contact_email }}).
+For questions about submissions or formatting, write to the organizing committee
+(see [Contact](#contact)).
