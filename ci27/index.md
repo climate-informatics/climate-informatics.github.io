@@ -61,11 +61,9 @@ sections:
 
 # ----------------------------------------------------------------------------- DATA
 ci27:
-  # Link to the CMT submission portal. Leave empty until it exists:
-  # the button then shows "opens 30 November 2026".
+  # Link to the CMT submission portal.
   submission_url: "https://cmt3.research.microsoft.com/CI2027/Submission/Index"
-  submission_opens: "30 November 2026"
-  # Link to the registration platform. Leave empty until it exists.
+  # Link to the registration platform.
   registration_url: "https://cmt3.research.microsoft.com/CI2027/Submission/Index"
   contacts:
     - name: "Emanuele Mele"
@@ -80,8 +78,6 @@ ci27:
   template_latex: "/ci27/assets/files/ci2027-extended-abstract-template-latex.zip"
 
   dates:
-    - label: "Abstract & paper submission opens"
-      date: "30 November 2026"
     - label: "Abstract & paper submission deadline"
       date: "5 February 2027"
       highlight: true
