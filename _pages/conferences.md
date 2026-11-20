@@ -12,7 +12,7 @@ and Gavin Schmidt.
 
 ### Climate Informatics 2027 (CI 2027)
 
-The [16th International Conference on Climate Informatics]() will take place from May 10 to May 14 in Lecce, Italy. CI 2027 will be hosted by the [Euro-Mediterranean Center on Climate Change (CMCC)](https://www.cmcc.it/) and [University of Salento](https://www.unisalento.it/). The information on paper submission is forthcoming. 
+The [16th International Conference on Climate Informatics](/ci27/) will take place from May 10 to May 14 in Lecce, Italy. CI 2027 will be hosted by the [Euro-Mediterranean Center on Climate Change (CMCC)](https://www.cmcc.it/) and [University of Salento](https://www.unisalento.it/). The information on paper submission is forthcoming. 
 
 ## Past Events 
 

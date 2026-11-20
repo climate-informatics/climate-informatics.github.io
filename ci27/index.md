@@ -66,7 +66,7 @@ ci27:
   submission_url: ""
   submission_opens: "30 November 2026"
   # Link to the registration platform. Leave empty until it exists.
-  registration_url: ""
+  registration_url: "https://cmt3.research.microsoft.com/CI2027/Submission/Index"
   contact_email: "climate.informatics.workshop@gmail.com"
   mailing_list: "https://groups.google.com/g/climate-informatics-news"
   # Extended abstract templates (files in ci27/assets/files/)
