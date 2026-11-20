@@ -26,6 +26,16 @@ html:has(.ci27-page), html:has(body.ci27-page) { scroll-behavior: smooth; }
 
 .ci27-page #main { color: var(--ci27-ink); }
 .ci27-page #main a { color: var(--ci27-primary); }
+/* Buttons: white text on the page colour (the rule above would make the text dark) */
+.ci27-page #main a.btn--primary {
+  color: #fff;
+  background-color: var(--ci27-primary);
+}
+.ci27-page #main a.btn--primary:hover,
+.ci27-page #main a.btn--primary:focus {
+  color: #fff;
+  background-color: #0b3442;
+}
 .ci27-page #main img { max-width: 100%; }
 .ci27-page #main p,
 .ci27-page #main li { overflow-wrap: anywhere; }   /* long e-mail addresses on phones */

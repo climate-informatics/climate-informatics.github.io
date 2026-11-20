@@ -144,7 +144,7 @@ ci27:
 ---
 
 <!-- When you change ci27.css, increase the number after ?v= so browsers load the new version -->
-<div class="ci27-assets"><link rel="stylesheet" href="{{ '/ci27/assets/css/ci27.css' | relative_url }}?v=2"></div>
+<div class="ci27-assets"><link rel="stylesheet" href="{{ '/ci27/assets/css/ci27.css' | relative_url }}?v=3"></div>
 
 <!-- In-page menu: built from the "sections" list in the front matter -->
 <div class="ci27-nav" role="navigation" aria-label="CI 2027 sections">
