@@ -3,6 +3,9 @@
 The registration deadline is **9 April 2027**. Opening date, fees and what is included will be
 announced here.
 
+Registration fees have not been finalised yet. As an indication, the registration fee is
+expected to be **between €400 and €500**.
+
 {% comment %}
 Hidden for now. To show it, delete the "comment" line above, this line and the "endcomment" line below.
 | Category | Early registration | Regular registration |

@@ -90,19 +90,19 @@ html:has(.ci27-page), html:has(body.ci27-page) { scroll-behavior: smooth; }
   width: auto;
   max-width: none;
 }
+/* Menu items on two rows. The number of columns (--ci27-menu-cols) is set in
+   index.md from the number of visible sections, so it adapts automatically. */
 .ci27-nav ul {
   flex: 1 1 auto;
   min-width: 0;
-  display: flex;
-  gap: 0.25em;
+  display: grid;
+  grid-template-columns: repeat(var(--ci27-menu-cols, 6), auto);
+  justify-content: space-between;
+  gap: 0.1em 0.25em;
   margin: 0;
-  padding: 0.45em 0;
+  padding: 0.35em 0;
   list-style: none;
-  overflow-x: auto;
-  white-space: nowrap;
-  scrollbar-width: none;
 }
-.ci27-nav ul::-webkit-scrollbar { display: none; }
 .ci27-nav li { margin: 0; }
 .ci27-page #main .ci27-nav ul a {
   display: block;
@@ -111,6 +111,7 @@ html:has(.ci27-page), html:has(body.ci27-page) { scroll-behavior: smooth; }
   font-size: 0.8em;
   font-weight: 600;
   text-decoration: none;
+  white-space: nowrap;
   color: var(--ci27-ink);
 }
 .ci27-page #main .ci27-nav ul a:hover,
@@ -309,4 +310,7 @@ html:has(.ci27-page), html:has(body.ci27-page) { scroll-behavior: smooth; }
   .ci27-page .page__hero--overlay .page__title { font-size: 1.9em; }
   .ci27-timeline__item { grid-template-columns: 1fr; gap: 0; }
   .ci27-hosts__logo { min-height: 90px; padding: 0.8em; }
+  /* On phones the two-row grid does not fit: items wrap onto as many rows as needed */
+  .ci27-nav ul { display: flex; flex-wrap: wrap; justify-content: flex-start; }
+  .ci27-page #main .ci27-nav ul a { padding: 0.25em 0.55em; font-size: 0.72em; }
 }

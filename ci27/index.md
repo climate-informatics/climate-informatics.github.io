@@ -94,6 +94,7 @@ ci27:
   # Topics of interest (same as CI 2026).
   topics:
     - "Knowledge-guided and hybrid Earth-system modelling"
+    - "AI emulators and foundation models for weather and climate"
     - "Prediction, nowcasting, downscaling and extremes"
     - "Data assimilation, reanalysis and remote sensing"
     - "Causal discovery, interpretability, calibration and uncertainty quantification"
@@ -146,10 +147,13 @@ ci27:
 ---
 
 <!-- When you change ci27.css, increase the number after ?v= so browsers load the new version -->
-<div class="ci27-assets"><link rel="stylesheet" href="{{ '/ci27/assets/css/ci27.css' | relative_url }}?v=3"></div>
+<div class="ci27-assets"><link rel="stylesheet" href="{{ '/ci27/assets/css/ci27.css' | relative_url }}?v=4"></div>
 
 <!-- In-page menu: built from the "sections" list in the front matter -->
-<div class="ci27-nav" role="navigation" aria-label="CI 2027 sections">
+{% assign ci27_menu_items = 0 %}{% for s in page.sections %}{% if s.show and s.menu != "" %}{% assign ci27_menu_items = ci27_menu_items | plus: 1 %}{% endif %}{% endfor %}
+{% assign ci27_menu_cols = ci27_menu_items | plus: 1 | divided_by: 2 %}
+<!-- The menu is split over two rows: the number of columns is worked out from the visible sections -->
+<div class="ci27-nav" role="navigation" aria-label="CI 2027 sections" style="--ci27-menu-cols: {{ ci27_menu_cols }}">
   <a class="ci27-nav__logo" href="#" title="Back to top"><img src="{{ '/ci27/assets/images/climateinformatics.png' | relative_url }}" alt="Climate Informatics"></a>
   <ul>
 {% for s in page.sections %}{% if s.show and s.menu != "" %}    <li><a href="#{{ s.id }}">{{ s.menu }}</a></li>

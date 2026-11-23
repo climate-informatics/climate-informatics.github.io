@@ -20,6 +20,9 @@ for details.
 
 - Submissions are made through the conference CMT portal. Submission portal: {% if page.ci27.submission_url != "" %}[CI 2027 on CMT]({{ page.ci27.submission_url }}){% else %}link available
   from {{ page.ci27.submission_opens }}{% endif %}.
+- Each author may submit only **one paper** (full paper or extended abstract).
+- Every paper must include a short *AI use statement* saying whether generative AI was used
+  and, if so, which tools and how (see [Use of generative AI](#use-of-generative-ai)).
 - The corresponding author must make sure that all co-authors approve the results presented
   and the final manuscript.
 

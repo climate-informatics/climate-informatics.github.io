@@ -46,11 +46,16 @@ possible and, if you rely on proprietary or external data, share a version of it
 The main submission must stand on its own: reviewers may look at supplementary material but
 are not required to.
 
-### Use of generative AI
+### Use of generative AI {#use-of-generative-ai}
 
 Authors may use generative AI tools when preparing their manuscripts. AI tools cannot be
 listed as authors, and the human authors remain fully responsible for the content, including
 avoiding plagiarism, misrepresentation and falsification.
+
+Every submission must state explicitly whether generative AI was used and, if so, **which
+tools were used and how**: for example for editing the text, writing or debugging code,
+producing figures, or analysing data. Include this as a short *AI use statement* at the end of
+the paper, before the references. If no generative AI was used, say so in the statement.
 
 ### Open science
 
