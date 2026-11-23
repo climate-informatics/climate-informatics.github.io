@@ -1,10 +1,10 @@
 ## Registration {#registration}
 
-The registration deadline is **9 April 2027**. Opening date, fees and what is included will be
-announced here.
-
-Registration fees have not been finalised yet. As an indication, the registration fee is
-expected to be **between €400 and €500**.
+Registration will open in early 2027. The registration fee is expected to be between €400 and
+€500 per accepted contribution; the final amount and what it includes will be announced when
+registration opens. Please note that a registration fee is required for each accepted paper or
+extended abstract, and each contribution must be presented in person at the conference to be
+included in the proceedings.
 
 {% comment %}
 Hidden for now. To show it, delete the "comment" line above, this line and the "endcomment" line below.

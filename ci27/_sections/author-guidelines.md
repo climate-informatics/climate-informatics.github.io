@@ -20,9 +20,10 @@ for details.
 
 - Submissions are made through the conference CMT portal. Submission portal: {% if page.ci27.submission_url != "" %}[CI 2027 on CMT]({{ page.ci27.submission_url }}){% else %}link available
   from {{ page.ci27.submission_opens }}{% endif %}.
-- Each author may submit only **one paper** (full paper or extended abstract).
-- Every paper must include a short *AI use statement* saying whether generative AI was used
-  and, if so, which tools and how (see [Use of generative AI](#use-of-generative-ai)).
+- Each participant may submit only **one manuscript** as submitting author
+  (see [Submission limit](#submission-limit)).
+- Every manuscript must include a "Declaration of Generative AI Use" section before the
+  references (see [Use of generative AI](#use-of-generative-ai)).
 - The corresponding author must make sure that all co-authors approve the results presented
   and the final manuscript.
 
@@ -37,8 +38,12 @@ for details.
 
 ### Registration and attendance
 
-At least one author of each accepted full paper or extended abstract must register for the
-conference and present the work.
+CI 2027 is an in-person event; remote presentations will not be possible. Each accepted paper
+or extended abstract must be presented at the conference by its submitting author or by another
+co-author who has not submitted a different manuscript. A separate registration fee must be paid
+for each accepted contribution; one registration cannot cover more than one paper. Contributions
+that are not registered by the registration deadline will be withdrawn from the programme and
+will not be included in the proceedings.
 
 ### Good practice
 

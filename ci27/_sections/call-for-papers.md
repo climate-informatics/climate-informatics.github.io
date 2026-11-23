@@ -20,7 +20,8 @@ results can be reproduced.
 
 There are two tracks, **full papers** and **extended abstracts**. Both are due on
 **5 February 2027** (23:59 AoE) and are submitted through Microsoft CMT
-(see [Submission guidelines](#submission-guidelines)). Each author may submit only one paper.
+(see [Submission guidelines](#submission-guidelines)). Each participant may submit only one
+manuscript as submitting author (see [Submission limit](#submission-limit)).
 
 #### Full papers
 

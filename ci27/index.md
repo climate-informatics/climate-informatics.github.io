@@ -94,7 +94,7 @@ ci27:
   # Topics of interest (same as CI 2026).
   topics:
     - "Knowledge-guided and hybrid Earth-system modelling"
-    - "AI emulators and foundation models for weather and climate"
+    - "AI emulators, foundation models and generative approaches for weather and climate"
     - "Prediction, nowcasting, downscaling and extremes"
     - "Data assimilation, reanalysis and remote sensing"
     - "Causal discovery, interpretability, calibration and uncertainty quantification"

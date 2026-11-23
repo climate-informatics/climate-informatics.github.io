@@ -38,6 +38,14 @@ version after acceptance.
   theses, and new versions of earlier non-archival work (such as posters or workshop papers)
   that add substantial new material and cite the earlier version.
 
+### Submission limit {#submission-limit}
+
+Each participant may submit only one manuscript (full paper or extended abstract) as submitting
+author. Researchers may be listed as co-authors on more than one manuscript, but each additional
+manuscript must be submitted, and if accepted presented, by a different co-author. If the same
+person submits more than one manuscript, only the most recently submitted one will be considered
+for review; all earlier submissions will be desk-rejected.
+
 ### Supplementary material
 
 Supplementary material such as code, data, evaluation protocols, additional results and
@@ -48,14 +56,13 @@ are not required to.
 
 ### Use of generative AI {#use-of-generative-ai}
 
-Authors may use generative AI tools when preparing their manuscripts. AI tools cannot be
+Authors may use generative AI tools when preparing their manuscripts. Any such use must be
+explicitly disclosed in a dedicated section titled "Declaration of Generative AI Use", placed
+before the references. This section should name the tool(s) used and briefly describe their
+purpose (e.g., language editing, code generation, figure preparation). AI tools cannot be
 listed as authors, and the human authors remain fully responsible for the content, including
-avoiding plagiarism, misrepresentation and falsification.
-
-Every submission must state explicitly whether generative AI was used and, if so, **which
-tools were used and how**: for example for editing the text, writing or debugging code,
-producing figures, or analysing data. Include this as a short *AI use statement* at the end of
-the paper, before the references. If no generative AI was used, say so in the statement.
+avoiding plagiarism, misrepresentation and falsification. If no generative AI tools were used,
+authors should state this explicitly.
 
 ### Open science
 
